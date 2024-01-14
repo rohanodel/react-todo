@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "AAAA",
+      "mobile": 9632587412
+    },
+    {
+      "id": 2,
+      "name": "BBBB",
+      "mobile": 6534785
+    },
+    {
+      "id": 3,
+      "name": "CCCC",
+      "mobile": "86542122"
+    },
+    {
+      "id": 4,
+      "name": "DDDD",
+      "mobile": 74865421
+    },
+    {
+      "id": 5,
+      "name": "EEEE",
+      "mobile": 89654213
+    },
+    {
+      "name": "FFFFF",
+      "mobile": "67890432",
+      "id": 6
+    }
+  ]
+}
